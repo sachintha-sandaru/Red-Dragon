@@ -29,8 +29,8 @@ global.ownernomer = '+94767361910' //Owner Number <<<
 global.ownername = '😎𝙈𝙧.𝙎𝘼𝘾𝙃𝙄𝙔𝘼' //Owner Name
 global.botname = '✮Queen Amdi✭' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = '🤭මේක ටච් කරන්න 📍' //Costomize A Button Name In Alive Message
+global.btnurl = 'දැන් සැපද' //Change Your Button's URL
 
 global.region = 'Sri Lanka,Gampaha' //Country Region
 
